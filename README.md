@@ -6,7 +6,6 @@
 I'm Yuri Tiofilo .
 I'm a full stack developer software :computer:
 
-- :rocket:   I’m currently working at **MazzaFC**
 - :purple_heart:   React Native and ReactJS
 - :computer:   ReactJS, Node, React Native, Typescript, Flutter...
 - 💬   Ask me about: tech, games, movies and series.
