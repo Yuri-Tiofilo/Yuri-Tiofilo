@@ -6,6 +6,5 @@
 I'm Yuri Tiofilo .
 I'm a full stack developer software :computer:
 
-- :purple_heart:   React Native, ReactJS and NodeJS
-- :computer:   ReactJS, Node, React Native, Typescript, Flutter...
+- :purple_heart:   React Native, ReactJS, Typescript, NodeJS, Flutter...
 - 💬   Ask me about: tech, games, movies and series.
