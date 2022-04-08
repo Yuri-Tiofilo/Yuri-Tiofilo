@@ -8,3 +8,6 @@ I'm a full stack developer software :computer:
 
 - :purple_heart:   React Native, ReactJS, Typescript, NodeJS, Flutter...
 - 💬   Ask me about: tech, games, movies and series.
+
+
+Visit my new <a href="https://devyuritiofilo.gatsbyjs.io/">blog</a> and check out the latest technology updates.
